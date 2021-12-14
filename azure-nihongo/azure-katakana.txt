@@ -1,0 +1,22 @@
+ARM テンプレート    	- ARM  Template 
+パラメーター   		-  Parameter
+アプリケーション 		- Application
+リソース      		- Resource
+パラメーター ファイ 		- Parameter File
+ガバナンス    		- Governance
+AD フェデレーション 		- AD federation
+プロバイダー    		- Provider
+テナント     		- Tenant
+ハイブリッド                - Hybrid
+ユーザー ポータル           - User Panel
+リソース プロバイダー         - Resource Provider
+コンピューティング            - Computing
+プレビュー		        - Preview
+オペレーター               - Operator
+オファー                  - Offer
+プラン                   - Plan
+ワークロード	       - Workload
+コンテナ  		       - Container
+データベース              - Database
+アップグレード             - Upgrade
+エージェント              - Agent
