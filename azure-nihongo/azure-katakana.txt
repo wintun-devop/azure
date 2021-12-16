@@ -20,3 +20,13 @@ AD フェデレーション 		- AD federation
 データベース              - Database
 アップグレード             - Upgrade
 エージェント              - Agent
+プロセス                 - Process
+エッジ                  - Edge
+クラウド                 - Cloud
+モバイル                - Mobile
+ナレッジ                - Knowledge
+インテリジェント           - Intelligent
+アーキテクチャ            - Architecture
+ビジョン                - Vision
+スケーリング             - Scaling
+マイクロソフト            - Microsoft
